@@ -3,4 +3,9 @@
   <groupId>com.jeriks</groupId>
   <artifactId>MavenGitJenkins-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+  	<finalName>MavenGGitJenkinsDemo</finalName>
+  </build>
+  
 </project>
